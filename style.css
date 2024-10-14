@@ -1,0 +1,35 @@
+
+body{
+     background-color:black ;
+     color: white;
+
+}
+h1{
+    text-align: center;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font: italic;
+}
+.secDiv{
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+}
+    
+    
+    button{
+        
+        margin: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+        border: 5px solid red;
+     
+
+    }
+    button:hover{
+        background-color: green;
+        color: aqua;
+    }
+    input{
+        margin: 10px;
+    }
